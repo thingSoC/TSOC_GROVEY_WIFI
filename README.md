@@ -10,7 +10,7 @@ These reference designs are complete designs and can also serve as starting temp
 
 ---------------------------------------
 
-[![thingSoC TSOC-GROVEY_WIFI](http://thingsoc.github.io/img/projects/TSOC-GROVEY_WIFI/TSOC-GROVEY_WIFI_top.png)  
+[![thingSoC TSOC-GROVEY_WIFI](https://github.com/thingSoC/TSOC_GROVEY_WIFI/blob/master/TSOC_GROVEY_WIFI/images/TSOC_GROVEY_WIFI_top.png)  
 *TSOC-GROVEY_WIFI*](https://github.com/thingSoC/thingSoC/tree/master/examples/eagle6/TSOC-GROVEY_WIFI)
 
 * [Supported by the Arduino IDE](https://www.arduino.cc/) 
