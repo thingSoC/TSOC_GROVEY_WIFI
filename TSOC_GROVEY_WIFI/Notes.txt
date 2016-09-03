@@ -1,0 +1,4 @@
+thingSoC Grovey WiFi notes:
+---------------------------
+
+1) Change RST to GPIO2
